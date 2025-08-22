@@ -267,26 +267,3 @@ flutter logs
 Pour nettoyer le cache de build :
 flutter clean
 flutter pub get
-
-CONTRIBUTION ET DÉVELOPPEMENT
-
-Standards de codage
-- Respect des conventions Dart/Flutter
-- Documentation des fonctions publiques
-- Tests unitaires pour les fonctionnalités critiques
-- Gestion appropriée des erreurs
-
-Workflow de développement
-- Développement sur branches de fonctionnalités
-- Tests avant intégration
-- Révision de code systématique
-- Documentation mise à jour
-
-Évolutions futures
-- Intégration avec des APIs médicales
-- Notifications de rappel de rendez-vous
-- Synchronisation cloud des données
-- Support multilingue
-- Fonctionnalités d'export de données
-
-Cette application représente une solution complète pour le suivi médical personnel, offrant une interface moderne et des fonctionnalités essentielles pour la gestion de la santé au quotidien.
