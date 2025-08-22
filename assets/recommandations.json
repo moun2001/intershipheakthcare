@@ -1,0 +1,88 @@
+{
+  "recommandations": [
+    {
+      "id": "1",
+      "categorie": "Sommeil",
+      "titre": "Rituel du soir",
+      "description": "Évitez les écrans 1h avant le coucher et buvez une tisane de verveine ou de camomille, très populaires en Algérie",
+      "conseil": "Créez une routine relaxante avec de la musique chaâbi douce"
+    },
+    {
+      "id": "2",
+      "categorie": "Nutrition",
+      "titre": "Petit-déjeuner équilibré",
+      "description": "Commencez votre journée avec des dattes, du miel et du pain traditionnel algérien",
+      "conseil": "Ajoutez des amandes et des noix pour l'énergie"
+    },
+    {
+      "id": "3",
+      "categorie": "Activité physique",
+      "titre": "Marche quotidienne",
+      "description": "Marchez 30 minutes par jour dans les parcs d'Alger comme le Jardin d'Essai ou le Parc de la Liberté",
+      "conseil": "Profitez de la fraîcheur matinale en été"
+    },
+    {
+      "id": "4",
+      "categorie": "Sommeil",
+      "titre": "Température optimale",
+      "description": "Maintenez votre chambre à 18-20°C, idéal pour le climat méditerranéen d'Alger",
+      "conseil": "Utilisez un ventilateur en été plutôt que la climatisation"
+    },
+    {
+      "id": "5",
+      "categorie": "Nutrition",
+      "titre": "Hydratation",
+      "description": "Buvez 2L d'eau par jour, plus en été. Privilégiez l'eau minérale locale",
+      "conseil": "Ajoutez du citron ou de la menthe pour varier"
+    },
+    {
+      "id": "6",
+      "categorie": "Activité physique",
+      "titre": "Exercices à domicile",
+      "description": "Faites 15 minutes d'exercices simples chaque matin : étirements, squats, pompes",
+      "conseil": "Écoutez de la musique raï ou chaâbi pour motiver"
+    },
+    {
+      "id": "7",
+      "categorie": "Sommeil",
+      "titre": "Horaires réguliers",
+      "description": "Couchez-vous et levez-vous à la même heure, même le weekend",
+      "conseil": "Évitez les siestes trop longues l'après-midi"
+    },
+    {
+      "id": "8",
+      "categorie": "Nutrition",
+      "titre": "Cuisine traditionnelle",
+      "description": "Privilégiez les légumes de saison et les plats traditionnels comme le couscous ou la chorba",
+      "conseil": "Utilisez l'huile d'olive locale pour la cuisson"
+    },
+    {
+      "id": "9",
+      "categorie": "Activité physique",
+      "titre": "Sports locaux",
+      "description": "Essayez le football, la natation ou la randonnée dans les montagnes de Kabylie",
+      "conseil": "Rejoignez un club sportif local pour la motivation"
+    },
+    {
+      "id": "REC010",
+      "categorie": "Sommeil",
+      "titre": "Environnement calme",
+      "description": "Isolez votre chambre du bruit de la rue avec des rideaux épais",
+      "conseil": "Utilisez un bruit blanc ou des sons de nature"
+    },
+    {
+      "id": "REC011",
+      "categorie": "Nutrition",
+      "titre": "Fruits de saison",
+      "description": "Consommez les fruits locaux : oranges de Blida, figues, grenades",
+      "conseil": "Achetez au marché local pour la fraîcheur"
+    },
+    {
+      "id": "REC012",
+      "categorie": "Activité physique",
+      "titre": "Yoga et relaxation",
+      "description": "Pratiquez 10 minutes de yoga ou de méditation chaque matin",
+      "conseil": "Utilisez des techniques de respiration simples"
+    }
+  ]
+}

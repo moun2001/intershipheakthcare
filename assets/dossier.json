@@ -1,0 +1,80 @@
+{
+  "antecedents": [
+    {
+      "id": "ANT001",
+      "type": "Chirurgie",
+      "description": "Appendicectomie",
+      "date": "2018-06-15",
+      "lieu": "Hôpital Mustapha Pacha, Alger",
+      "medecin": "Dr. Rachid Khelifi"
+    },
+    {
+      "id": "ANT002",
+      "type": "Fracture",
+      "description": "Fracture du poignet droit",
+      "date": "2023-11-10",
+      "lieu": "Hôpital Central de Constantine",
+      "medecin": "Dr. Kamel Mansouri"
+    },
+    {
+      "id": "ANT003",
+      "type": "Maladie",
+      "description": "Varicelle",
+      "date": "1990-05-20",
+      "lieu": "Clinique locale",
+      "medecin": "Dr. Ahmed Benali"
+    }
+  ],
+  "allergies": [
+    {
+      "id": "ALL001",
+      "allergene": "Pénicilline",
+      "reaction": "Éruption cutanée",
+      "gravite": "Modérée",
+      "dateDecouverte": "2015-03-10"
+    },
+    {
+      "id": "ALL002",
+      "allergene": "Poussière",
+      "reaction": "Rhinite allergique",
+      "gravite": "Légère",
+      "dateDecouverte": "2010-08-15"
+    },
+    {
+      "id": "ALL003",
+      "allergene": "Fruits de mer",
+      "reaction": "Œdème de Quincke",
+      "gravite": "Sévère",
+      "dateDecouverte": "2018-12-03"
+    }
+  ],
+  "traitements": [
+    {
+      "id": "1",
+      "medicament": "Ventoline",
+      "posologie": "2 inhalations 3 fois par jour",
+      "indication": "Asthme",
+      "dateDebut": "2023-01-15",
+      "dateFin": null,
+      "statut": "en cours"
+    },
+    {
+      "id": "2",
+      "medicament": "Vitamine D",
+      "posologie": "1 comprimé par jour",
+      "indication": "Carence en vitamine D",
+      "dateDebut": "2023-09-01",
+      "dateFin": null,
+      "statut": "en cours"
+    },
+    {
+      "id": "3",
+      "medicament": "Ibuprofène",
+      "posologie": "400mg 3 fois par jour",
+      "indication": "Douleur post-fracture",
+      "dateDebut": "2023-11-10",
+      "dateFin": "2023-12-15",
+      "statut": "terminé"
+    }
+  ]
+}

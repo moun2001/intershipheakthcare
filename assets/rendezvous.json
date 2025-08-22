@@ -1,0 +1,67 @@
+{
+    "rendezVous": [
+      {
+        "id": "1",
+        "medecin": "Dr. Fatima Zohra",
+        "specialite": "Cardiologie",
+        "date": "2025-09-20T14:30:00",
+        "lieu": "Hôpital Mustapha Pacha, Alger",
+        "statut": "à venir",
+        "motif": "Contrôle cardiaque annuel"
+      },
+      {
+        "id": "2",
+        "medecin": "Dr. Mohamed Boudiaf",
+        "specialite": "Dermatologie",
+        "date": "2025-09-25T09:00:00",
+        "lieu": "Centre Médical Bab El Oued, Alger",
+        "statut": "à venir",
+        "motif": "Consultation pour problème de peau"
+      },
+      {
+        "id": "3",
+        "medecin": "Dr. Ahmed Benali",
+        "specialite": "Médecine générale",
+        "date": "2025-08-15T10:00:00",
+        "lieu": "Clinique El Biar, Alger",
+        "statut": "terminé",
+        "motif": "Consultation de routine"
+      },
+      {
+        "id": "4",
+        "medecin": "Dr. Aïcha Belkacem",
+        "specialite": "Ophtalmologie",
+        "date": "2025-07-08T16:00:00",
+        "lieu": "Institut d'Ophtalmologie, Oran",
+        "statut": "terminé",
+        "motif": "Contrôle de la vue"
+      },
+      {
+        "id": "5",
+        "medecin": "Dr. Kamel Mansouri",
+        "specialite": "Orthopédie",
+        "date": "2025-06-20T11:30:00",
+        "lieu": "Hôpital Central de Constantine",
+        "statut": "terminé",
+        "motif": "Suivi fracture poignet"
+      },
+      {
+        "id": "6",
+        "medecin": "Dr. Leila Messaoudi",
+        "specialite": "Gynécologie",
+        "date": "2025-10-10T13:00:00",
+        "lieu": "Clinique des Spécialités, Alger",
+        "statut": "à venir",
+        "motif": "Consultation de contrôle"
+      },
+      {
+        "id": "7",
+        "medecin": "Dr. Nadia Hakim",
+        "specialite": "Neurologie",
+        "date": "2025-08-28T11:00:00",
+        "lieu": "CHU Tizi Ouzou",
+        "statut": "à venir",
+        "motif": "Consultation spécialisée"
+      }
+    ]
+  }
